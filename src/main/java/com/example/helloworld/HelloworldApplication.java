@@ -14,7 +14,7 @@ public class HelloworldApplication {
     class HelloworldController {
          @GetMapping("/")
           String hello() {
-             return "Hello, Welcome CloudBase --ROCK !";
+             return "Hello, 灰度URL发布 --ROCK !";
           }
     }
 
